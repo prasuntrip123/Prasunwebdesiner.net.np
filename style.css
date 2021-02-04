@@ -1,0 +1,30 @@
+body{
+	background-color: #f1f1f1;
+
+}
+
+h1{
+	color: white;
+	background-color: green;
+	padding: 10px;
+	border: 1px solid black;
+	text-align: center;
+}
+p{
+	height: 200pxpx;
+	width: 300px;
+	background-color: orange;
+}
+a{
+	text-decoration: none;
+	color: white;
+	margin: 20px;
+}
+nav{
+	background-color: grey;
+	padding: 10px;
+}
+nav a:hover{
+	background-color: black;
+	color: white;
+}
