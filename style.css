@@ -1,33 +1,5 @@
-h4{
+h2{
+	text-align: center;
+	color: white;
 	background-color: green;
-	text-align: center;
-	color: white;
-	padding: 10px;
 }
-#aq{
-	background-color: blue;
-	height: 20px;
-	padding: 10px;
-	margin: 10px;
-}
-a{
-	text-decoration: none;
-	color: white;
-}
-a:hover{
-	background-color: black;
-}
-body{
-	background-color: #f1f1f1;
-}
-h5{
-	text-align: center;
-}
-#abc{
-	background-color: green;
-	color: white;
-	text-align: center;
-}
-@media screen and (max-width: 341px;)
-width = 100%;
-
